@@ -17,4 +17,6 @@ public class Metodos {
         for(int i=0;i<temperaturas.length;i++)
         System.out.println("temperaturas ["+i+"]= "+temperaturas[i]);
 }
+    public void metodoVacio(){
+}
 }
