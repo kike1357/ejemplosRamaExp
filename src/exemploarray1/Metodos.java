@@ -18,5 +18,6 @@ public class Metodos {
         System.out.println("temperaturas ["+i+"]= "+temperaturas[i]);
 }
     public void metodoVacio(){
+        String acelerar;
 }
 }
